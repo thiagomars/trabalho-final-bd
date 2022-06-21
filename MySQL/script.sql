@@ -1,4 +1,3 @@
-/*CREATE DATABASE "equipe412645-NEW"*/
 CREATE DATABASE TESTE;
 
 USE TESTE;
@@ -30,14 +29,12 @@ CREATE TABLE autores (
 );
 
 CREATE TABLE usuarios (
-    id INT NOT NULL,
     usuario VARCHAR(45) NOT NULL,
     senha VARCHAR(90) NOT NULL,
     nome VARCHAR(90) NOT NULL,
     endereco VARCHAR(90) NOT NULL,
     tipo_user VARCHAR(45) NOT NULL,
-    PRIMARY KEY (id),
-    UNIQUE (usuario)
+    PRIMARY KEY (usuario)
 );
 
 CREATE TABLE professores (
@@ -45,22 +42,24 @@ CREATE TABLE professores (
     cod_curso INT NOT NULL,
     celular INT NOT NULL,
     data_contratacao DATE NOT NULL,
-    id INT NOT NULL,
+    usuario VARCHAR(45) NOT NULL,
     PRIMARY KEY (mat_siape),
-    FOREIGN KEY (id) 
-        REFERENCES usuarios(id)
+    FOREIGN KEY (usuario) 
+        REFERENCES usuarios(usuario)
         ON DELETE CASCADE
-        ON UPDATE CASCADE 
+        ON UPDATE CASCADE,
+	UNIQUE(usuario)
 );
 
 CREATE TABLE funcionarios (
   matricula INT NOT NULL,
-  id INT NOT NULL,
+  usuario VARCHAR(45) NOT NULL,
   PRIMARY KEY (matricula),
-  FOREIGN KEY (id)
-    REFERENCES usuarios(id)
+  FOREIGN KEY (usuario)
+    REFERENCES usuarios(usuario)
     ON DELETE CASCADE
-    ON UPDATE CASCADE
+    ON UPDATE CASCADE,
+	UNIQUE(usuario)
 );
 
 CREATE TABLE alunos (
@@ -68,12 +67,13 @@ CREATE TABLE alunos (
   data_ingresso DATE NOT NULL,
   data_formacao_prevista DATE NOT NULL,
   cod_curso VARCHAR(45) NOT NULL,
-  id INT NOT NULL,
+  usuario VARCHAR(45) NOT NULL,
   PRIMARY KEY (matricula),
-  FOREIGN KEY (id)
-    REFERENCES usuarios(id)
+  FOREIGN KEY (usuario)
+    REFERENCES usuarios(usuario)
     ON DELETE CASCADE
-    ON UPDATE CASCADE
+    ON UPDATE CASCADE,
+  UNIQUE(usuario)
 );
 
 CREATE TABLE telefone (
@@ -81,10 +81,10 @@ CREATE TABLE telefone (
   matricula INT NOT NULL,
   PRIMARY KEY (numero),
   FOREIGN KEY (matricula)
-    REFERENCES alunos(id)
+    REFERENCES alunos(matricula)
     ON DELETE CASCADE,
   FOREIGN KEY (matricula)
-    REFERENCES funcionarios(id)
+    REFERENCES funcionarios(matricula)
     ON DELETE CASCADE
 );
 
@@ -102,12 +102,12 @@ CREATE TABLE publicacoes (
 
 CREATE TABLE registros (
   cod_reserva INT NOT NULL,
-  id_usuario INT NOT NULL,
+  usuario VARCHAR(45) NOT NULL,
   ISBN INT NOT NULL,
   data DATE NOT NULL,
   PRIMARY KEY (cod_reserva),
   FOREIGN KEY (ISBN)
     REFERENCES livros(ISBN),
-  FOREIGN KEY (id_usuario)
-    REFERENCES usuarios(id)
+  FOREIGN KEY (usuario)
+    REFERENCES usuarios(usuario)
 );
