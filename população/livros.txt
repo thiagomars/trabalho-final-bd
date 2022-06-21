@@ -1,0 +1,45 @@
+----------------------------------------------------------------+
+                    livros                                      |
+-----------------+----------------------------------------------+
+isbn:            | 202212341
+editora:         | editorial
+ano_lançamento:  | 20/11/2005
+categoria:       | aventura
+qtd_copias:      | 3
+titulo:          | Aventurando nas Aventuras do Aventureiro
+-----------------+----------------------------------------------
+isbn:            | 202212342
+editora:         | fundação qualquer
+ano_lançamento:  | 20/11/1998
+categoria:       | auto biografia
+qtd_copias:      | 5
+titulo:          | O EU descrito
+-----------------+----------------------------------------------
+isbn:            | 202212343
+editora:         | editorial
+ano_lançamento:  | 01/07/2018
+categoria:       | fantasia
+qtd_copias:      | 2
+titulo:          | O nome do vento
+-----------------+----------------------------------------------
+isbn:            | 202212344
+editora:         | ditoriando
+ano_lançamento:  | 13/02/1999
+categoria:       | tecnologia e ciencias
+qtd_copias:      | 18
+titulo:          | Ciencia Hoje, Tecnologia Amanhã
+-----------------+----------------------------------------------
+isbn:            | 202212345
+editora:         | ditoriando
+ano_lançamento:  | 01/12/2016
+categoria:       | tecnologia e ciencias
+qtd_copias:      | 17
+titulo:          | Uma Breve História do Tempo
+-----------------+----------------------------------------------
+isbn:            | 202212346
+editora:         | outrali
+ano_lançamento:  | 20/08/1987
+categoria:       | romance
+qtd_copias:      | 1
+titulo:          | A culpa é das estrelas
+-----------------+----------------------------------------------

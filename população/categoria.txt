@@ -1,0 +1,35 @@
+---------------------------------------------------------------
+categoria
+---------------------------------------------------------------
+id:             | 1
+descrição:      | aventura é uma categoria de livros etc
+ISBN:           | 202212341
+nome_categoria: | aventura
+---------------------------------------------------------------
+id:             | 2
+descrição:      | auto biografia é uma categoria de livros etc
+ISBN:           | 202212342
+nome_categoria: | auto biografia
+---------------------------------------------------------------
+id:             | 3
+descrição:      | fantasia é uma categoria de livros etc
+ISBN:           | 202212343
+nome_categoria: | aventura
+---------------------------------------------------------------
+id:             | 4
+descrição:      | tecnologia e ciencias é uma categoria de livros etc
+ISBN:           | 202212344
+nome_categoria: | tecnologia e ciencias
+---------------------------------------------------------------
+id:             | 5
+descrição:      | tecnologia e ciencias é uma categoria de livros etc
+ISBN:           | 202212345
+nome_categoria: | tecnologia e ciencias
+---------------------------------------------------------------
+id:             | 6
+descrição:      | romance é uma categoria de livros etc
+ISBN:           | 202212346
+nome_categoria: | romance 
+---------------------------------------------------------------
+
+
