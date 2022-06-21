@@ -1,6 +1,6 @@
-CREATE DATABASE TESTE;
+CREATE DATABASE Equipe412645;
 
-USE TESTE;
+USE Equipe412645;
 
 CREATE TABLE categoria (
     nome_categoria VARCHAR(45) NOT NULL,
@@ -43,6 +43,7 @@ CREATE TABLE professores (
     celular INT NOT NULL,
     data_contratacao DATE NOT NULL,
     usuario VARCHAR(45) NOT NULL,
+    regime ENUM('20H', '40H', 'DE'),
     PRIMARY KEY (mat_siape),
     FOREIGN KEY (usuario) 
         REFERENCES usuarios(usuario)
