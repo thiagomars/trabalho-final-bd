@@ -9,7 +9,7 @@ BEGIN
 		FROM alunos al, usuarios us
 		WHERE us.usuario = al.usuario
     ) + 15 THEN
-		SET NEW.data = 10101010;
+		SET NEW.data = 10101010; /*Ainda precisa ser ajeitada*/
     END IF;
 END;
 //
