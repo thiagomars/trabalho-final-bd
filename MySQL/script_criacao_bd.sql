@@ -78,7 +78,7 @@ CREATE TABLE alunos (
 );
 
 CREATE TABLE telefone_aluno (
-  numero INT NOT NULL,
+  numero BIGINT NOT NULL,
   matricula INT NOT NULL,
   PRIMARY KEY (numero),
   FOREIGN KEY (matricula)
@@ -86,8 +86,8 @@ CREATE TABLE telefone_aluno (
     ON DELETE CASCADE
 );
 
-CREATE TABLE telefone_prof (
-  numero INT NOT NULL,
+CREATE TABLE telefone_funcionario (
+  numero BIGINT NOT NULL,
   matricula INT NOT NULL,
   PRIMARY KEY (numero),
   FOREIGN KEY (matricula)
