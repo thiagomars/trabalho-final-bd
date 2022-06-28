@@ -1,0 +1,37 @@
+---------------------------------------------------------------
+categoria
+---------------------------------------------------------------
+descrição:      | aventura é uma categoria de livros etc
+ISBN:           | 202212341
+nome_categoria: | aventura
+---------------------------------------------------------------
+descrição:      | auto biografia é uma categoria de livros etc
+ISBN:           | 202212342
+nome_categoria: | auto biografia
+---------------------------------------------------------------
+descrição:      | fantasia é uma categoria de livros etc
+ISBN:           | 202212343
+nome_categoria: | fantasia
+---------------------------------------------------------------
+descrição:      | tecnologia e ciencias é uma categoria de livros etc
+ISBN:           | 202212344
+nome_categoria: | tecnologia e ciencias
+---------------------------------------------------------------
+descrição:      | romance é uma categoria de livros etc
+ISBN:           | 202212345
+nome_categoria: | romance 
+---------------------------------------------------------------
+descrição:      | Psicologia do Desenvolvimento Saúde, Boa Forma e Dieta é uma categoria de livros etc
+ISBN:           | 202212346
+nome_categoria: | Psicologia do Desenvolvimento Saúde, Boa Forma e Dieta
+---------------------------------------------------------------
+descrição:      | editorial é uma categoria de livros etc
+ISBN:           | 202212347
+nome_categoria: | editorial
+---------------------------------------------------------------
+descrição:      | auto biografia é uma categoria de livros etc
+ISBN:           | 202212348
+nome_categoria: | auto biografia
+---------------------------------------------------------------
+
+

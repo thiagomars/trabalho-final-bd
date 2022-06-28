@@ -1,0 +1,64 @@
+-----------
+ALUNOS
+-----------
+
+matricula: 0001
+data_ingresso: 10/02/2018
+data_formacao: 10/02/2023
+cod_curso: eg10comp
+usuario: joao0102
+------------------------------------
+matricula: 0002
+data_ingresso: 10/02/2018
+data_formacao: 10/02/2023
+cod_curso: eg10comp
+usuario: vivi-gomes
+------------------------------------
+matricula: 0003
+data_ingresso: 11/02/2018
+data_formacao: 10/02/2023
+cod_curso: eg11elet
+usuario: marcinhorei
+------------------------------------
+matricula: 0004
+data_ingresso: 01/06/2014
+data_formacao: 10/06/2020
+cod_curso: eg11elet
+usuario: marifer
+------------------------------------
+matricula: 0005
+data_ingresso: 02/06/2014
+data_formacao: 10/06/2020
+cod_curso: ps1gi4
+usuario: mari4
+------------------------------------
+matricula: 0006
+data_ingresso: 02/06/2014
+data_formacao: 10/06/2020
+cod_curso: ps1gi4
+usuario: joaojao
+------------------------------------
+matricula: 0007
+data_ingresso: 28/11/2016
+data_formacao: 10/05/2021
+cod_curso: 42med
+usuario: joao2811
+------------------------------------
+matricula: 0008
+data_ingresso: 10/02/2018
+data_formacao: 10/02/2023
+cod_curso: 41med
+usuario: joao0102
+------------------------------------
+matricula: 0009
+data_ingresso: 10/02/2018
+data_formacao: 10/02/2023
+cod_curso: 41med
+usuario: carloss
+------------------------------------
+matricula: 0010
+data_ingresso: 10/02/2018
+data_formacao: 10/02/2023
+cod_curso: eg13comp
+usuario: mirianmirian
+------------------------------------

@@ -1,0 +1,148 @@
+-----------
+USUARIOS
+-----------
+usuario: joao0102
+senha: jj1010
+nome: João Gomes Teixeira
+endereco: Av. Geraldinho Gomes, 888 - Pedrinhas - Sobral - CE
+tipo_user: aluno
+----------------------------------------------
+usuario: vivi-gomes
+senha: vivivi
+nome: Vitoria Melo de Andrade
+endereco: Rua do Conde, 123 - Dom Expedito - Sobral - CE
+tipo_user: aluno
+----------------------------------------------
+usuario: marcinhorei
+senha: 1314
+nome: jonatan
+endereco: av.Tuina, 890 - Itapipoca - Sobral -CE
+tipo_user: aluno
+----------------------------------------------
+usuario: marifer
+senha: 2323
+nome: Maria Fernandes
+endereco: Rua verde, 23 - Dom Expedito - Sobral -CE
+tipo_user: aluno
+----------------------------------------------
+usuario: mari4
+senha: 1324
+nome: Maria Bobotona
+endereco: Rua Ivone, 76 - Lima Vieira - Sobral -CE
+tipo_user: aluno
+----------------------------------------------
+usuario: joaojoao
+senha: 9090
+nome: João Felipinas
+endereco: Rua nova, 56, Belo Horizonte - Sobral -CE
+tipo_user: aluno
+----------------------------------------------
+usuario: joao2811
+senha: 5657
+nome: José Felix
+endereco: Rua Silva, 80, Kanuty - Sobral -CE
+tipo_user: aluno
+----------------------------------------------
+usuario: joao0102
+senha:5757
+nome: João Pires
+endereco: Rua Mutuca, 90, Jota - Sobral -CE
+tipo_user: aluno
+----------------------------------------------
+usuario: carloss
+senha:4676
+nome: Carlos Silva 
+endereco: Rua Tim, 80, Ali - Sobral -CE
+tipo_user: aluno
+----------------------------------------------
+usuario: mirianmirian
+senha:5858
+nome: Mirian Sousa
+endereco: Rua Larga,80, Campos - Sobral -CE
+tipo_user: aluno
+----------------------------------------------
+usuario: kevin1
+senha:kevin34
+nome: Kevin Magal
+endereco: Rua B,80, Campos - Sobral -CE
+tipo_user: professor
+----------------------------------------------
+usuario: julio9
+senha:ju0909
+nome: Julio Cesar
+endereco: Rua B,90, Campos - Sobral -CE
+tipo_user:professor
+----------------------------------------------
+usuario: mariateles
+senha:7879
+nome: Maria Teles
+endereco: Rua R,60, Campos - Sobral -CE
+tipo_user:professor
+----------------------------------------------
+usuario: silvan90
+senha:4546
+nome: Silvan Felipe
+endereco: Rua Z,10, Campos - Sobral -CE
+tipo_user: professor
+----------------------------------------------
+usuario: neto202
+senha:9089
+nome: Neto Sousa
+endereco: Rua L,40, Lagos - Sobral -CE
+tipo_user: professor
+----------------------------------------------
+usuario: julian09
+senha:7890
+nome: Julian Silva
+endereco: Rua P,80, Azol - Sobral -CE
+tipo_user: professor
+----------------------------------------------
+usuario: marcondi2
+senha:7890
+nome: Marcondi Lima
+endereco: Rua C,80, Azul - Sobral -CE
+tipo_user: funcionario
+----------------------------------------------
+usuario: lincon1
+senha:6767
+nome: Lincon Monteiro
+endereco: Rua Q,40, Lagos - Sobral -CE
+tipo_user: funcionario
+----------------------------------------------
+usuario: kevin4
+senha:5657
+nome: Kevin Naldo
+endereco: Rua L,40, Lagos - Sobral -CE
+tipo_user: funcionario
+----------------------------------------------
+usuario: ricardo8
+senha:0404
+nome: Ricardo Latex
+endereco: Rua S,40, Lagos - Sobral -CE
+tipo_user: funcionario
+----------------------------------------------
+usuario: tatiane4
+senha:4646
+nome: Tatiane Silva
+endereco: Rua Q,05,  - Sobral -CE
+tipo_user: funcionario
+----------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

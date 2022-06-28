@@ -1,0 +1,83 @@
+-----------
+PROFESSORES
+----------------
+mat_siape: 00001
+cod_curso:02
+celular:8892908987
+data_contratacao: 20221002
+usuario:kevin1
+regime:20H
+-----------------------------
+
+mat_siape: 00002
+cod_curso:01
+celular:8892456789
+data_contratacao: 20220908
+usuario:julio9
+regime:20H
+
+-----------------------------
+
+mat_siape: 00003
+cod_curso:003
+celular:88990877678
+data_contratacao: 20220908
+usuario: mariateles
+regime:40H
+
+-----------------------------
+
+mat_siape: 00004
+cod_curso:001
+celular:88990897879
+data_contratacao: 20220901
+usuario:silvan90
+regime:40H
+
+-----------------------------
+
+mat_siape: 00005
+cod_curso:003
+celular:88987675443
+data_contratacao: 20220905
+usuario:neto202
+regime:DE
+
+-----------------------------
+
+mat_siape: 00006
+cod_curso:002
+celular:88992309098
+data_contratacao: 20220302
+usuario:julian09
+regime:DE
+
+-----------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
