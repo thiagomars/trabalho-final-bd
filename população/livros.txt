@@ -46,7 +46,7 @@ titulo:          | A culpa é das estrelas
 isbn:            | 202212347
 editora:         | Padrão
 ano_lançamento:  | 20/08/2020
-categoria:       | Psicologia do Desenvolvimento Saúde, Boa Forma e Dieta
+categoria:       | psicologia_desenvolvimento_saude
 qtd_copias:      | 2
 titulo:          | Mindset: A nova psicologia do sucesso
 -----------------+----------------------------------------------
