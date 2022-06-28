@@ -77,13 +77,19 @@ CREATE TABLE alunos (
   UNIQUE(usuario)
 );
 
-CREATE TABLE telefone (
+CREATE TABLE telefone_aluno (
   numero INT NOT NULL,
   matricula INT NOT NULL,
   PRIMARY KEY (numero),
   FOREIGN KEY (matricula)
     REFERENCES alunos(matricula)
-    ON DELETE CASCADE,
+    ON DELETE CASCADE
+);
+
+CREATE TABLE telefone_prof (
+  numero INT NOT NULL,
+  matricula INT NOT NULL,
+  PRIMARY KEY (numero),
   FOREIGN KEY (matricula)
     REFERENCES funcionarios(matricula)
     ON DELETE CASCADE
