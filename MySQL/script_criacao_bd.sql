@@ -108,7 +108,7 @@ CREATE TABLE publicacoes (
 );
 
 CREATE TABLE registros (
-  cod_reserva INT NOT NULL,
+  cod_reserva INT NOT NULL AUTO_INCREMENT,
   usuario VARCHAR(45) NOT NULL,
   ISBN INT NOT NULL,
   data DATE NOT NULL,
