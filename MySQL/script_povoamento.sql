@@ -52,6 +52,8 @@ INSERT INTO usuarios VALUES("kevin4", "5657", "Kevin Naldo", "Rua L,40, Lagos - 
 INSERT INTO usuarios VALUES("ricardo8", "0404", "Ricardo Latex", "Rua S,40, Lagos - Sobral -CE", "usuario");
 INSERT INTO usuarios VALUES("tatiane4", "4646", "Tatiane Silva", "Rua Q,05,  - Sobral -CE", "usuario");
 
+/*Inserção do Administrador*/
+INSERT INTO usuarios VALUES("Admin", "root", "administrador", "endereço qualquer", "administrador");
 
 /*Inserção dos alunos*/
 INSERT INTO alunos VALUES (0001, 20180210, 20230210, "eg10comp", "joao0102");
