@@ -93,3 +93,34 @@ INSERT INTO telefone_funcionario VALUES (88997809060, 101010);
 INSERT INTO telefone_funcionario VALUES (88997809069, 232323);
 INSERT INTO telefone_funcionario VALUES (88997809090, 232920);
 INSERT INTO telefone_funcionario VALUES (88997809045, 676767);
+
+/*Inserção dos autores*/
+INSERT INTO autores VALUES ("clezio@gmail.com","Clezio Brigido","Brasileiro");
+INSERT INTO autores VALUES ("thg@gmail.com","Thiago Mars","Francês");
+INSERT INTO autores VALUES ("fab@gmail.com","Fabio Sousa","Brasileiro");
+INSERT INTO autores VALUES ("ed@gmail.com","Ed Goz","Francês");
+INSERT INTO autores VALUES ("dit@gmail.com","Dito Oz","Brasileiro");
+INSERT INTO autores VALUES ("and@gmail.com","André Sousa","Francês");
+INSERT INTO autores VALUES ("olavo@gmail.com","Olavo Felix","Chinês");
+INSERT INTO autores VALUES ("pedro@gmail.com","Pedro Lima","Chinês");
+INSERT INTO autores VALUES ("silva@gmail.com","Silva Silveira","Francês");
+INSERT INTO autores VALUES ("cezar@gmail.com","Cezar Yulie","Italiano");
+INSERT INTO autores VALUES ("raquel@gmail.com","Raquel Duarte","Brasileiro");
+INSERT INTO autores VALUES ("kely@gmail.com","Kely Neta","Francês");
+INSERT INTO autores VALUES ("celso@gmail.com","Celso Neto","Italiano");
+SELECT * FROM autores;
+/*Inserção das publicacoes*/
+
+INSERT INTO publicacoes VALUES (202212341,"clezio@gmail.com");
+INSERT INTO publicacoes VALUES (202212341, "thg@gmail.com");
+INSERT INTO publicacoes VALUES (202212342, "fab@gmail.com");
+INSERT INTO publicacoes VALUES (202212343, "ed@gmail.com");
+INSERT INTO publicacoes VALUES (202212344, "dit@gmail.com");
+INSERT INTO publicacoes VALUES (202212345, "and@gmail.com");
+INSERT INTO publicacoes VALUES (202212346, "olavo@gmail.com");
+INSERT INTO publicacoes VALUES (202212347, "pedro@gmail.com");
+INSERT INTO publicacoes VALUES (202212348, "silva@gmail.com");
+INSERT INTO publicacoes VALUES (202212349, "cezar@gmail.com");
+INSERT INTO publicacoes VALUES (202212350, "raquel@gmail.com");
+INSERT INTO publicacoes VALUES (202212351, "kely@gmail.com");
+INSERT INTO publicacoes VALUES (202212352, "celso@gmail.com");
