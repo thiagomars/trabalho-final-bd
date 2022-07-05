@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/thiag/Documents/NetBeansProjects/BibliotecaBD/src/principal/DeleteUser.java</file>
+            <file>file:/C:/Users/thiag/Documents/NetBeansProjects/BibliotecaBD/src/principal/MenuPrincipalUsuario.java</file>
+            <file>file:/C:/Users/thiag/Documents/NetBeansProjects/BibliotecaBD/src/principal/AddUser.java</file>
+            <file>file:/C:/Users/thiag/Documents/NetBeansProjects/BibliotecaBD/src/principal/MenuPrincipalBibliotecario.java</file>
+            <file>file:/C:/Users/thiag/Documents/NetBeansProjects/BibliotecaBD/src/modelos/Livros.java</file>
+            <file>file:/C:/Users/thiag/Documents/NetBeansProjects/BibliotecaBD/src/modelos/Aluno.java</file>
+            <file>file:/C:/Users/thiag/Documents/NetBeansProjects/BibliotecaBD/src/persistencia/JDBCUsuarios.java</file>
+            <file>file:/C:/Users/thiag/Documents/NetBeansProjects/BibliotecaBD/src/persistencia/JDBCRegistros.java</file>
+            <file>file:/C:/Users/thiag/Documents/NetBeansProjects/BibliotecaBD/src/principal/ConsultarProfessores.java</file>
+            <file>file:/C:/Users/thiag/Documents/NetBeansProjects/BibliotecaBD/src/persistencia/JDBCAlunos.java</file>
+            <file>file:/C:/Users/thiag/Documents/NetBeansProjects/BibliotecaBD/src/modelos/Registros.java</file>
+            <file>file:/C:/Users/thiag/Documents/NetBeansProjects/BibliotecaBD/src/modelos/Usuario.java</file>
+            <file>file:/C:/Users/thiag/Documents/NetBeansProjects/BibliotecaBD/src/principal/ConsultarLivros.java</file>
+            <file>file:/C:/Users/thiag/Documents/NetBeansProjects/BibliotecaBD/src/principal/FazerReseva.java</file>
+            <file>file:/C:/Users/thiag/Documents/NetBeansProjects/BibliotecaBD/src/principal/Login.java</file>
+        </group>
+    </open-files>
+</project-private>
