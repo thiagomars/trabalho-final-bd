@@ -5,11 +5,11 @@ BEFORE INSERT ON registros
 FOR EACH ROW
 BEGIN
 	IF NEW.data > (
-		SELECT al.data_formacao_prevista 
-		FROM alunos al, usuarios us
+		SELECT GROUP_CONCAT(al.data_formacao_prevista)
+		FROM alunos al, usuarios us 
 		WHERE us.usuario = al.usuario
     ) + 15 THEN
-		SET NEW.data = 10101010; /*Ainda precisa ser ajeitada*/
+			DELETE FROM registros WHERE cod_reserva = NEW.cod_reserva;
     END IF;
 END;
 //
